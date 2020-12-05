@@ -5,8 +5,7 @@ For all your Bastard Operator From Hell quote needs
 ## Requirements
 
 ```
-pip install discord.py
-pip install dotenv
+pip install -r requirements.txt
 ```
 
 ## Commands
