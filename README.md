@@ -14,3 +14,7 @@ pip install -r requirements.txt
 | --- | --- |
 | `!bofh` | reply with random BOFH quote |
 | `!topic-bofh` | set the room topic to BOFH excuse |
+
+## Notes
+
+- You will need `python 3.8.x` if you are on Windows 10
